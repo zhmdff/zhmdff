@@ -23,11 +23,10 @@ public class Developer
     public Dictionary<string, string[]> TechStack => new()
     {
         ["Backend"] = new[] { "C#", "Node.js", "ASP.NET Core", "Express" },
-        ["Frontend"] = new[] { "React", "Vue", "TypeScript" },
-        ["GameDev"] = new[] { "Unity", "Godot", "C#" },
-        ["Mobile"] = new[] { "React Native", "Flutter", "Xamarin" },
-        ["Database"] = new[] { "PostgreSQL", "MongoDB", "Redis", "SQL Server" },
-        ["DevOps"] = new[] { "Docker", "Kubernetes", "CI/CD", "Azure" }
+        ["Frontend"] = new[] { "React", "Next", "TypeScript" },
+        ["GameDev"] = new[] { "Unity", "C#" },
+        ["Mobile"] = new[] { "Java", "Kotlin" },
+        ["Database"] = new[] { "PostgreSQL", "MySQL", "SQL Server" }
     };
     
     public string CurrentFocus => "Building scalable backend systems & indie games";
@@ -36,33 +35,10 @@ public class Developer
 
 ---
 
-### 🎮 NOW PLAYING
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/312rivlv4444cebpovgzwpq2ltka)
-
----
-
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhmdff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhmdff&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhmdff&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhmdff&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-### 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zhmdff/zhmdff/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
