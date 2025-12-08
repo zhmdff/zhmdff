@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Architecture+Enthusiast;Game+Developer;Mobile+App+Creator;C%23+%26+Node.js+Specialist)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/zhmdff/count.svg)
-
 </div>
 
 ---
