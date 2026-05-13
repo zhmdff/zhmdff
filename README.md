@@ -66,15 +66,6 @@ public class Developer
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zhmdff&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=e6edf3&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhmdff&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=e6edf3&langs_count=6" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=zhmdff&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-<br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zhmdff&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=e6edf3&area=true&area_color=58A6FF" />
 
 </div>
