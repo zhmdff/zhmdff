@@ -1,74 +1,124 @@
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  SYSTEM BOOT...  ██████████████████████░░  98%                  ║
+║  IDENTITY MODULE LOADED  ·  USER: zhmdff  ·  STATUS: ONLINE ●   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header)
+```
+ ███████╗██╗  ██╗███╗   ███╗██████╗ ███████╗███████╗
+ ╚══███╔╝██║  ██║████╗ ████║██╔══██╗██╔════╝██╔════╝
+   ███╔╝ ███████║██╔████╔██║██║  ██║█████╗  █████╗  
+  ███╔╝  ██╔══██║██║╚██╔╝██║██║  ██║██╔══╝  ██╔══╝  
+ ███████╗██║  ██║██║ ╚═╝ ██║██████╔╝██║     ██║     
+ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝     ╚═╝     
+```
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> WELCOME TO MY DIGITAL REALM
+*Backend Architect · Full Stack Dev · Game Developer*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Architecture+Enthusiast;Game+Developer;Mobile+App+Creator;C%23+%26+Node.js+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=%3E+initializing+build+systems...;%3E+compiling+distributed+services...;%3E+deploying+to+production...;%3E+shipping+indie+games...;%3E+all+systems+nominal+%E2%9C%93)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🎯 WHAT I DO
+## `> whoami`
 
 ```csharp
-public class Developer 
-{
-    public string Name => "zhmdff";
-    public string[] Roles => new[] { "Backend Architect", "Full Stack Dev", "Game Dev" };
-    
-    public Dictionary<string, string[]> TechStack => new()
-    {
-        ["Backend"] = new[] { "C#", "Node.js", "ASP.NET Core", "Express" },
-        ["Frontend"] = new[] { "React", "Next", "TypeScript" },
-        ["GameDev"] = new[] { "Unity", "C#" },
-        ["Mobile"] = new[] { "Java", "Kotlin" },
-        ["Database"] = new[] { "PostgreSQL", "MySQL", "SQL Server" }
-    };
-    
-    public string CurrentFocus => "Building scalable backend systems & indie games";
-}
+var zhmdff = new Developer {
+    Name        = "Mahmud Ahmadov",
+    Handle      = "@zhmdff",
+    Roles       = ["Backend Architect", "Full Stack Dev", "Indie Game Dev"],
+    Location    = "Building things that scale",
+    CurrentFocus = "Scalable backend systems & indie games in Unity",
+    OpenTo      = ["Collaboration", "Interesting problems", "Good architecture debates"]
+};
 ```
 
 ---
 
-### 📊 GITHUB ANALYTICS
+## `> cat tech_stack.json`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⬡ CORE LANGUAGES**
+```
+C#          ████████████████████  PRIMARY
+Node.js     ████████████████░░░░  STRONG
+TypeScript  ███████████████░░░░░  STRONG  
+JavaScript  ██████████████░░░░░░  FLUENT
+Java        █████████░░░░░░░░░░░  WORKING
+Kotlin      ████████░░░░░░░░░░░░  WORKING
+SQL         ████████████████░░░░  STRONG
+```
+
+**⬡ BACKEND**
+```
+ASP.NET Core   ──── Web APIs, MVC, SignalR
+Express.js     ──── REST, Middleware, Auth
+Entity Framework── ORM, Migrations
+```
+
+</td>
+<td width="50%" valign="top">
+
+**⬡ FRONTEND**
+```
+React          ──── SPA, Hooks, Context
+Next.js        ──── SSR, SSG, App Router
+TypeScript     ──── Type-safe everything
+```
+
+**⬡ DATABASES**
+```
+PostgreSQL   ●●●●●  relational, primary
+MySQL        ●●●●○  relational
+SQL Server   ●●●●○  enterprise
+MongoDB      ●●●○○  document store
+Redis        ●●●○○  cache / sessions
+```
+
+**⬡ INFRA & TOOLS**
+```
+Docker         ──── containers, compose
+Git            ──── branching, CI flows
+Unity          ──── 2D/3D, C# scripting
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github --stats`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhmdff&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhmdff&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&border_color=30363d&langs_count=8&custom_title=Language+Distribution" height="220"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=zhmdff&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&custom_title=Commit+Activity" height="220"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhmdff&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 ---
 
-### 🛠️ TECH ARSENAL
+## `> ping --connect`
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### 📫 CONNECT WITH ME
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-ahmadov-a57bab261/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zhmdff)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zhmdff.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhmdff@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/─_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-ahmadov-a57bab261/)
+[![Twitter](https://img.shields.io/badge/─_Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zhmdff)
+[![Portfolio](https://img.shields.io/badge/─_zhmdff.com-111111?style=flat-square&logo=About.me&logoColor=white)](https://zhmdff.com)
+[![Email](https://img.shields.io/badge/─_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhmdff@gmail.com)
 
 </div>
 
@@ -76,14 +126,11 @@ public class Developer
 
 <div align="center">
 
-### 💭 RANDOM DEV QUOTE
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer)
+```
+╔══════════════════════════════════════╗
+║   session uptime: ∞   bugs fixed: ✓  ║
+║   zhmdff · always building · 2024+   ║
+╚══════════════════════════════════════╝
+```
 
 </div>
