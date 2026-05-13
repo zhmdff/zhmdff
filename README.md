@@ -79,6 +79,6 @@ public class Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-ahmadov-a57bab261/)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zhmdff)
 [![Portfolio](https://img.shields.io/badge/zhmdff.com-111111?style=flat-square&logo=About.me&logoColor=white)](https://zhmdff.com)
-[![Email](https://img.shields.io/badge/EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhmdff@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhmdff@gmail.com)
 
 </div>
