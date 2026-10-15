@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://zhmdff.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-web-dark.svg"><img height="34" alt="zhmdff.com" src="assets/link-web-light.svg"></picture></a>
-<a href="https://linkedin.com/in/mahmud-ahmadov-a57bab261/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img height="34" alt="LinkedIn" src="assets/link-linkedin-light.svg"></picture></a>
+<a href="https://linkedin.com/in/zhmdff/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img height="34" alt="LinkedIn" src="assets/link-linkedin-light.svg"></picture></a>
 <a href="https://twitter.com/zhmdff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-twitter-dark.svg"><img height="34" alt="Twitter" src="assets/link-twitter-light.svg"></picture></a>
 <a href="https://instagram.com/zhmdff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img height="34" alt="Instagram" src="assets/link-instagram-light.svg"></picture></a>
 <a href="mailto:zhmdff@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img height="34" alt="Email" src="assets/link-email-light.svg"></picture></a>
@@ -42,13 +42,13 @@ public class Developer
 </td>
 <td width="42%" valign="top">
 
-| key | value |
-| :-- | :-- |
-| `location` | Baku, Azerbaijan |
-| `core` | C# · .NET |
-| `focus` | system design, security, automation |
-| `builds` | web backends, game systems |
-| `status` | open to collaboration |
+| key        | value                               |
+| :--------- | :---------------------------------- |
+| `location` | Baku, Azerbaijan                    |
+| `core`     | C# · .NET                           |
+| `focus`    | system design, security, automation |
+| `builds`   | web backends, game systems          |
+| `status`   | open to collaboration               |
 
 </td>
 </tr>
