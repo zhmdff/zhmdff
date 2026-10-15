@@ -5,19 +5,20 @@
 
 <div align="center">
 
-[`zhmdff.com`](https://zhmdff.com) &nbsp;·&nbsp;
-[`linkedin`](https://linkedin.com/in/mahmud-ahmadov-a57bab261/) &nbsp;·&nbsp;
-[`twitter`](https://twitter.com/zhmdff) &nbsp;·&nbsp;
-[`instagram`](https://instagram.com/zhmdff) &nbsp;·&nbsp;
-[`email`](mailto:zhmdff@gmail.com)
+<a href="https://zhmdff.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-web-dark.svg"><img height="34" alt="zhmdff.com" src="assets/link-web-light.svg"></picture></a>
+<a href="https://linkedin.com/in/mahmud-ahmadov-a57bab261/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img height="34" alt="LinkedIn" src="assets/link-linkedin-light.svg"></picture></a>
+<a href="https://twitter.com/zhmdff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-twitter-dark.svg"><img height="34" alt="Twitter" src="assets/link-twitter-light.svg"></picture></a>
+<a href="https://instagram.com/zhmdff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img height="34" alt="Instagram" src="assets/link-instagram-light.svg"></picture></a>
+<a href="mailto:zhmdff@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img height="34" alt="Email" src="assets/link-email-light.svg"></picture></a>
 
 </div>
 
 <br/>
 
-```
-┌─[ 00 / ABOUT ]───────────────────────────────────────────────────────────┐
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-00-dark.svg">
+  <img width="100%" alt="00 / ABOUT" src="assets/section-00-light.svg">
+</picture>
 
 <table>
 <tr>
@@ -53,18 +54,20 @@ public class Developer
 </tr>
 </table>
 
-```
-┌─[ 01 / STACK ]───────────────────────────────────────────────────────────┐
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-01-dark.svg">
+  <img width="100%" alt="01 / STACK" src="assets/section-01-light.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img width="100%" alt="Stack: C#, TypeScript, JavaScript, Java, Kotlin, SQL · ASP.NET Core, .NET, Node.js, Express · React, Next.js · PostgreSQL, MySQL, SQL Server, MongoDB, Redis · Unity, Docker, Git" src="assets/stack-light.svg">
 </picture>
 
-```
-┌─[ 02 / STATS ]───────────────────────────────────────────────────────────┐
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-02-dark.svg">
+  <img width="100%" alt="02 / STATS" src="assets/section-02-light.svg">
+</picture>
 
 <div align="center">
 
@@ -79,13 +82,14 @@ public class Developer
 
 </div>
 
-```
-┌─[ 03 / ACTIVITY ]────────────────────────────────────────────────────────┐
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-03-dark.svg">
+  <img width="100%" alt="03 / ACTIVITY" src="assets/section-03-light.svg">
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhmdff&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true&radius=0&custom_title=$%20git%20log%20--graph">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zhmdff&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=000000&title_color=000000&hide_border=true&radius=0&custom_title=$%20git%20log%20--graph">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img width="100%" alt="Contribution activity over the last year" src="assets/activity-light.svg">
 </picture>
 
 <picture>
